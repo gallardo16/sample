@@ -1,1 +1,1 @@
-puts "sample"
+puts "sample2"
