@@ -1,5 +1,1 @@
 puts "baz"
-puts "baz"
-puts "baz"
-puts "baz"
-puts "baz"

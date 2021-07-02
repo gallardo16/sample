@@ -1,6 +1,1 @@
-puts "abc"
-puts "abc"
-puts "abc"
-puts "abc"
-puts "abc"
-puts "abc"
+puts (Time.now / 1.day).to_i
